@@ -25,7 +25,7 @@ Json no body com o seguinte formato:
 ## GET  http://localhost:8080/usuario
 Retorna todos usuários
 
-### Pârametros
+### Parâmetros
 Não necessita nenhum
 
 ## GET  http://localhost:8080/usuario/getById
